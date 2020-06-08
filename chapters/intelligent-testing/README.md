@@ -1,6 +1,6 @@
 # Intelligent testing
 
-Up to this point, _automation_ meant the _automation of the text execution_. Once we manually devised the test cases, we wrote them down as JUnit tests, which were executed by the machine. 
+Up to this point, _automation_ meant the _automation of the test execution_. Once we manually devised the test cases, we wrote them down as JUnit tests, which were executed by the machine. 
 
 While we studied several techniques to design test cases in a systematic manner, they all required some human effort. Our computers, however, can help a great deal in designing test cases. This is exactly what we are going to discuss in the following chapters.
 
